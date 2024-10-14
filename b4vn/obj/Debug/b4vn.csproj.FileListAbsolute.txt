@@ -1,0 +1,14 @@
+D:\c#\b4vn\b4vn\bin\Debug\b4vn.exe.config
+D:\c#\b4vn\b4vn\bin\Debug\b4vn.exe
+D:\c#\b4vn\b4vn\bin\Debug\b4vn.pdb
+D:\c#\b4vn\b4vn\bin\Debug\EntityFramework.dll
+D:\c#\b4vn\b4vn\bin\Debug\EntityFramework.SqlServer.dll
+D:\c#\b4vn\b4vn\bin\Debug\EntityFramework.xml
+D:\c#\b4vn\b4vn\bin\Debug\EntityFramework.SqlServer.xml
+D:\c#\b4vn\b4vn\obj\Debug\b4vn.csproj.AssemblyReference.cache
+D:\c#\b4vn\b4vn\obj\Debug\b4vn.Properties.Resources.resources
+D:\c#\b4vn\b4vn\obj\Debug\b4vn.csproj.GenerateResource.cache
+D:\c#\b4vn\b4vn\obj\Debug\b4vn.csproj.CoreCompileInputs.cache
+D:\c#\b4vn\b4vn\obj\Debug\b4vn.csproj.Up2Date
+D:\c#\b4vn\b4vn\obj\Debug\b4vn.exe
+D:\c#\b4vn\b4vn\obj\Debug\b4vn.pdb
